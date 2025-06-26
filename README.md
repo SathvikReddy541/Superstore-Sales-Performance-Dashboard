@@ -79,4 +79,4 @@ Sales Forecasting: Analyze monthly trends for seasonality and demand forecasting
 
 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example: 
+Example: https://github.com/SathvikReddy541/Superstore-Sales-Performance-Dashboard/blob/main/Snippet%20of%20Dashboard.png
